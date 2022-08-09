@@ -1,13 +1,9 @@
-# Sample Hardhat Project
+# Beacon-Proxy Implementation
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Here is yet another example of Beacon-proxy upgradeable smart contract.
 
-Try running some of the following tasks:
+It is still under a few bugs which will be solved very soon.
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+For Reference [docs](https://docs.openzeppelin.com/contracts/4.x/api/proxy#BeaconProxy).
+
+As soon project will be deplloy ready, README will be updated! ~Stay tuned.
